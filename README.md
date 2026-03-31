@@ -37,7 +37,6 @@ With a **PhD in Mathematical Sciences**, my approach to AI is rooted in rigorous
 
 ### 📬 Connect with Me
 - **LinkedIn:** [linkedin.com/in/manh-hung-tran](https://www.linkedin.com/in/manh-hung-tran/)
-- **Scholar:** [ORCID Profile](https://orcid.org/0000-0002-6581-1598)
 - **Interests:** Algorithmic Innovation, Responsible AI, Automation.
 
 ---
